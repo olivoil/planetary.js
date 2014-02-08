@@ -1,0 +1,13 @@
+{
+  "name": "planetary.js",
+  "version": "1.1.0",
+  "description": "Awesome interactive globes for the web",
+  "scripts": ["dist/planetaryjs"],
+  "main": "dist/planetaryjs",
+  "author": "Brandon Tilley <brandon@brandontilley.com>",
+  "license": "MIT",
+  "dependencies": {
+    "olivoil/topojson": "*",
+    "mbostock/d3": "*"
+  }
+}
