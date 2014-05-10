@@ -1,8 +1,10 @@
 {
   "name": "planetary.js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Awesome interactive globes for the web",
-  "scripts": ["dist/planetaryjs.js"],
+  "scripts": [
+    "dist/planetaryjs.js"
+  ],
   "main": "dist/planetaryjs.js",
   "author": "Brandon Tilley <brandon@brandontilley.com>",
   "license": "MIT",

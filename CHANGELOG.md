@@ -1,3 +1,10 @@
+
+1.1.1 / 2014-05-10
+==================
+
+ * component.json
+ * add component.json
+ * Update changelog retroactively to match release notes on GitHub
 v1.1.0 (2014/02/03)
 -------------------
 
